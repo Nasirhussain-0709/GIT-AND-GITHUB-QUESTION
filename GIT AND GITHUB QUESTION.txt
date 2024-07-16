@@ -1,0 +1,62 @@
+					GIT AND GITHUB QUESTION
+
+Q.1:- What is Git?
+
+Ans :- It is a popular version control system, it was discovered by Linus Torvalds in 2005 and has been maintained by Junio                    	Hamano. 
+	Git is used for
+	a> Tracking code changes
+	b> Tracking who made changes like history of the files
+	c> Coding collaboration
+ 
+	Types of version control system
+	a> Centralized version control system
+	b> Distributed version control system
+
+Q.2:- What do you understand by the term 'version control system'?
+
+Ans :- Version control also known as source control, is the practice of tracking and managing changes to software code. 	Version control system are software tools that help software team manage changes to source code over time.
+
+Q.3:- What is GitHub?
+
+Ans :- GitHub allows you to create, store, change, merge, and collaboration on files or code. Any member of a team can access 	the GitHub repository and see the most recent version in real time. Then, they can make edits or changes that the 	other collaborators also see.
+
+Q.4:- Mention some popular Git hosting service?
+
+Ans :- some popular Git hosting service are
+	a>GitHub
+	b>GitLab
+	c>Bitbucket
+	d>AWS Elastic Beanstalk
+	e>AWS CodeCommit
+	f>Azure DevOps server
+
+Q.5:- Different types of version control systems.
+
+Ans :- The three types of version control systems are
+	a> Centralized version control system
+	b> Distributed version control system
+	c> local version control system
+
+Q.6:- What benefits come with using GIT?
+
+Ans :- Benefits come with using GIT are
+	a> Version control
+	b> Collaboration
+	c> Branching and Merging
+	d> Distributed system
+	e> Performance
+	f> Staging area
+	g> Open source and free
+	h> Integration 
+	i> Community and support
+	j> Security
+
+Q.7:- What is a Git repository?
+
+Ans :- A Git repository is a storage space where your project files and their revision history are kept. It can be either
+	a> Local repository
+	b> Remote repository
+
+Q.8:- How can you initialize a repository in Git?
+
+Ans :- To initialize a Git repository we can use the command 'git init'.
